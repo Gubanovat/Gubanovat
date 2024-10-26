@@ -24,4 +24,28 @@
 
 - :mouse2: Факт обо мне
 
-### :hummer_and_wrench: Языки и инструменты :
+### :hammer_and_wrench: Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" width="40" height="40" />
+</div>
+
+### :trophy: Достижения :
+
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=Gubanovat" alt=""/>
+</div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gubanovat" alt=""/>
+</div>
+
+‹div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubanovat&theme=react-dark" alt=""/>
+</div>
