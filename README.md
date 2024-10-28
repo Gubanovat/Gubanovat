@@ -16,7 +16,8 @@
 <h1> Профиль на GITHUB </h1>
 </ div>
 
-### :orangutan: Обо мне:
+<div align="left">
+:orangutan: Обо мне:
 
 - :ram: Факт обо мне
   
